@@ -1,0 +1,17 @@
+{
+    "twilio": {
+        "notes": "to get free account - www.twilio.com/referral/ft9Jn1",
+        "account_sid": "Put twilio account sid here",
+        "auth_token": "Put authentication token here",
+        "from_phone": "+15552134567",
+        "to_phones": [
+            "+15552134568",
+            "+15552134569"
+        ],
+        "test": {
+            "account_sid": "Put test twilio account sid here",
+            "auth_token": "Put test authentication token here",
+            "test_from": "+15552134560"
+        }
+    }
+}
