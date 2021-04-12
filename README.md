@@ -3,6 +3,8 @@ Water proof pi zero based camera
 
 #TODO Finish and turn into english.
 
+Google Doc -. https://docs.google.com/document/d/1_Ft4_DnVP0l7C4F8KQKfvGQ-fLiE_zgtamy8NEPNIYg
+
 Instructions
 
 1) Build LDR circuit using pin 7 for the LDR (Yellow wire below).  This will allow you to use the ambient light level to switch on the camera IR filter.  The IR LEDs have their own adjustable sensors.
